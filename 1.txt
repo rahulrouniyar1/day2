@@ -1,0 +1,4 @@
+1.git status--gives the status of git file
+2.git init-- initailize git resporitory
+3.git add
+git log-- file check k k kam gareko xuh herna lai
